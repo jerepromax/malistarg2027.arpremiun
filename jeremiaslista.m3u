@@ -1,0 +1,28 @@
+#EXTM3U
+#EXTINF:0 group-title="jeremiaspromax25",Telefe
+http://186.0.248.91:20202/Live/442fc9e498abe7d137363ab6fcf93423/telefe_720.m3u8
+#EXTINF:0 group-title="jeremiaspromax25",Canal 26
+http://186.0.248.91:20202/Live/442fc9e498abe7d137363ab6fcf93423/c26_720.m3u8
+#EXTINF:0 group-title="jeremiaspromax25",Argentina 12
+http://186.0.248.91:20202/Live/442fc9e498abe7d137363ab6fcf93423/local-21_480.m3u8
+#EXTINF:0 group-title="jeremiaspromax25",C5N
+http://186.0.248.91:20202/Live/442fc9e498abe7d137363ab6fcf93423/c5n_480.m3u8
+#EXTINF:0 group-title="jeremiaspromax25",A24
+http://186.0.248.91:20202/Live/442fc9e498abe7d137363ab6fcf93423/a24_720.m3u8
+#EXTINF:0 group-title="jeremiaspromax25",La Nacion +
+http://186.0.248.91:20202/Live/442fc9e498abe7d137363ab6fcf93423/lntv_720.m3u8
+#EXTINF:0 group-title="jeremiaspromax25",Cronica TV
+http://186.0.248.91:20202/Live/442fc9e498abe7d137363ab6fcf93423/CronicaTv_480.m3u8
+#EXTINF:0 group-title="jeremiaspromax25",EL TRECE
+http://186.0.248.91:20202/Live/442fc9e498abe7d137363ab6fcf93423/eltrece_540.m3u8
+#EXTINF:0 group-title="jeremiaspromax25",Television Publica
+http://186.0.248.91:20202/Live/442fc9e498abe7d137363ab6fcf93423/tvpublica_720.m3u8
+#EXTINF:0 group-title="jeremiaspromax25",America TV
+http://186.0.248.91:20202/Live/442fc9e498abe7d137363ab6fcf93423/americatv_540.m3u8
+#EXTINF:0 group-title="jeremiaspromax25",TN Noticias
+http://186.0.248.91:20202/Live/442fc9e498abe7d137363ab6fcf93423/tn_720.m3u8
+#EXTINF:0 group-title="jeremiaspromax25",Canal Luz
+http://186.0.248.91:20202/Live/442fc9e498abe7d137363ab6fcf93423/telefe_720.m3u8
+#EXTINF:0 group-title="jeremiaspromax25",Canal 9 del parana Santa fe y entre rios
+http://186.0.248.91:20202/Live/442fc9e498abe7d137363ab6fcf93423/telefe_720.m3u8
+
