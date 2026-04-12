@@ -1,0 +1,83 @@
+#EXTM3U
+#EXTINF:0 tvg-logo="" group-title="",Lista oficial de Flowy-TV jerepromax.github.io/Flowy-TV/
+http://disfrutamasenjerepromax25.github.io
+#EXTINF:0 tvg-logo="" group-title="Argentina",Telefe HD
+http://181.13.252.102:8000/play/a06c/index.m3u8
+#EXTINF:0 tvg-logo="" group-title="Argentina",Telefe SD
+http://107.152.39.199:8030/hls/canal13.m3u8
+#EXTINF:0 tvg-logo="" group-title="Argentina",El trece HD
+http://45.5.151.147:8000/play/a00f/index.m3u8
+#EXTINF:0 tvg-logo="" group-title="Argentina",Canal 26 HD
+https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
+#EXTINF:0 tvg-logo="" group-title="Argentina",C5N HD
+http://181.13.252.102:8000/play/a01p/index.m3u8
+#EXTINF:0 tvg-logo="" group-title="Argentina",C5N SD
+http://181.13.252.102:8000/play/a01p/index.m3u8?hls
+#EXTINF:0 tvg-logo="" group-title="Argentina",A24 HD
+http://45.5.151.147:8000/play/a006/index.m3u8
+#EXTINF:0 tvg-logo="" group-title="Argentina",A24 SD
+http://181.13.252.102:8000/play/a01o/index.m3u8?hls
+#EXTINF:0 tvg-logo="" group-title="Argentina",America TV HD
+http://45.5.151.147:8000/play/a00c/index.m3u8
+#EXTINF:0 tvg-logo="" group-title="Futbol",ESPN Premiun HD
+http://45.5.151.147:8000/play/a00m/index.m3u8
+#EXTINF:0 tvg-logo="" group-title="Futbol",ESPN Disney SD
+http://181.78.7.90:12500/play/a0dr/index.m3u8
+#EXTINF:0 tvg-logo="" group-title="Futbol",ESPN 1 LAT HD
+http://45.70.201.81:8000/play/a001/index.m3u8
+#EXTINF:0 tvg-logo="" group-title="Futbol",ESPN Deportes
+https://smarthard.click/hls/sabrouchespndeportes/index.m3u8
+#EXTINF:0 tvg-logo="" group-title="Futbol",TNT Sports HD
+http://181.209.37.74:8001/play/a06z/index.m3u8
+#EXTINF:0 tvg-logo="" group-title="Futbol",TyC Sports (Geo Blocked) HD
+https://live-04-11-tyc24.vodgc.net/tyc24/index_tyc24_1080.m3u8
+#EXTINF:0 tvg-logo="" group-title="Futbol",Fox Sports 1 HD
+http://181.209.37.74:8001/play/a085/index.m3u8
+#EXTINF:0 tvg-logo="" group-title="Futbol",Fox Sports 2 HD
+http://181.209.37.74:8001/play/a09b/index.m3u8
+#EXTINF:0 tvg-logo="" group-title="Futbol",Fox Sports 3 HD
+http://181.209.37.74:8001/play/a06y/index.m3u8
+#EXTINF:0 tvg-logo="" group-title="Futbol",DSports 1 HD
+http://201.230.121.85:8000/play/a0yv/index.m3u8
+#EXTINF:0 tvg-logo="" group-title="Futbol",DSports 2 HD
+http://38.224.73.146:8000/play/a0vr/index.m3u8
+#EXTINF:0 tvg-logo="" group-title="Argentina",Ciudad Magazine HD
+https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
+#EXTINF:0 tvg-logo="" group-title="Argentina",Telemax HD
+https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/0/playlist.m3u8
+#EXTINF:0 tvg-logo="" group-title="España",Antena 3
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/161895
+#EXTINF:0 tvg-logo="" group-title="España",La 1
+http://ultra-premium-pro.xyz:8080/999061768tv/a3y12a/12334
+#EXTINF:0 tvg-logo="" group-title="España",La 2
+http://ultra-premium-pro.xyz:8080/999061768tv/a3y12a/12454
+#EXTINF:0 tvg-logo="" group-title="Venezuela",Telesur
+https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8
+#EXTINF:0 tvg-logo="" group-title="Venezuela",Telesur HD
+https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
+#EXTINF:0 tvg-logo="" group-title="Mexico",El Canal de las estrellas
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_4.m3u8
+#EXTINF:0 tvg-logo="" group-title="Colombia",Señal Colombia
+https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="" group-title="Infantiles",Cartoon Network
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9858
+#EXTINF:0 tvg-logo="" group-title="Infantiles",Discovery Kids
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9862
+#EXTINF:0 tvg-logo="" group-title="Infantiles",Discovery Kids SD
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9863
+#EXTINF:0 tvg-logo="" group-title="Infantiles",Paka Paka (Pago)
+http://ultrax.online:8080/live/973461279tv/k61a5p/61601.m3u8
+#EXTINF:0 tvg-logo="" group-title="Infantiles",Paka Paka SD (Pago)
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/157575
+#EXTINF:0 tvg-logo="" group-title="Infantiles",IPE Chicos
+https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e677.m3u8
+#EXTINF:0 tvg-logo="" group-title="24/7",El Chavo del ocho 24/7
+http://tv.proyectox.vip:8080/yahirdoparis543/54f8e20264bd/165622
+#EXTINF:0 tvg-logo="" group-title="24/7",El Auto Fantanstico 24/7
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/176975
+#EXTINF:0 tvg-logo="" group-title="24/7",Tom and jerry 24/7
+http://fortv.cc:8080/live/Delores@watts/QToYvPiLow/125635.m3u8
+
+
+
+
