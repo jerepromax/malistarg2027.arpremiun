@@ -1,0 +1,36 @@
+#EXTM3U
+#EXTINF:0 tvg-logo="" group-title="",futbol argentino por jeremias
+#EXTINF:0 tvg-logo="" group-title="Argentina",El Nueve (Canal 9)
+http://181.13.252.102:8000/play/a04h/index.m3u8
+#EXTINF:0 tvg-logo="" group-title="Argentina",Canal 26 HD
+https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
+#EXTINF:0 tvg-logo="" group-title="Argentina",Argentina|12 Peridismo con opinion
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-21_480.m3u8
+#EXTINF:0 tvg-logo="" group-title="Argentina",C5N
+http://181.13.252.102:8000/play/a01p/index.m3u8?
+#EXTINF:0 tvg-logo="" group-title="Argentina",America TV
+https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
+#EXTINF:0 tvg-logo="" group-title="Futbol",ESPN Premiun HD
+http://45.5.151.147:8000/play/a00m/index.m3u8
+#EXTINF:0 tvg-logo="" group-title="Futbol",ESPN Disney SD
+http://181.78.7.90:12500/play/a0dr/index.m3u8
+#EXTINF:0 tvg-logo="" group-title="Futbol",ESPN 1 ARG
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9521
+#EXTINF:0 tvg-logo="" group-title="Futbol",ESPN 1 LAT HD
+http://45.70.201.81:8000/play/a001/index.m3u8
+#EXTINF:0 tvg-logo="" group-title="Futbol",TNT Sports HD
+http://181.13.252.102:8000/play/a0bc/index.m3u8
+#EXTINF:0 tvg-logo="" group-title="Futbol",TyC Sports HD (SOLO PARA LA ARGENTINA)
+https://live-04-11-tyc24.vodgc.net/tyc24/index_tyc24_1080.m3u8
+#EXTINF:0 tvg-logo="" group-title="Futbol",Fox Sports 1 HD
+http://181.209.37.74:8001/play/a085/index.m3u8
+#EXTINF:0 tvg-logo="" group-title="Futbol",Fox Sports 2 HD
+http://181.209.37.74:8001/play/a09b/index.m3u8
+#EXTINF:0 tvg-logo="" group-title="Futbol",Fox Sports 3 HD
+http://181.209.37.74:8001/play/a06y/index.m3u8
+#EXTINF:0 tvg-logo="" group-title="Futbol",DSports 1 HD
+http://201.230.121.85:8000/play/a0yv/index.m3u8
+#EXTINF:0 tvg-logo="" group-title="Futbol",DSports 2 HD
+http://38.224.73.146:8000/play/a0vr/index.m3u8
+#EXTINF:0 tvg-logo="" group-title="Futbol",DSports +
+http://217.26.190.76:8888/play/a0jb/index.m3u8
