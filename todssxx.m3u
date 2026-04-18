@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/jerepromax/malistarg2027.arpremiun/refs/heads/main/Gemini_Generated_Ismage_jg01f5jg01f5jg01.png" group-title="",FUTBOL Lista corta
+http://codigoz.edsajkdsa/gihtub/roku.m3u
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/ESPN_Premium_logo.svg" group-title="Futbol",ESPN Premiun HD
+http://45.5.151.147:8000/play/a00m/index.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/ESPN_Premium_logo.svg" group-title="Futbol",ESPN Premiun SD
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9550
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/ESPN_Premium_logo.svg" group-title="Futbol",ESPN 1 Argentina
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9522
+#EXTINF:0 tvg-logo="https://volcanocommunications.com/wp-content/uploads/2025/08/DisneyESPN-1024x577.png.webp" group-title="Futbol",ESPN Disney SD
+http://181.78.7.90:12500/play/a0dr/index.m3u8
+#EXTINF:0 tvg-logo="https://w7.pngwing.com/pngs/877/31/png-transparent-bristol-espn-inc-roku-watchespn-betis-television-text-trademark.png" group-title="Futbol",ESPN 1 ARG
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9521
+#EXTINF:0 tvg-logo="https://w7.pngwing.com/pngs/877/31/png-transparent-bristol-espn-inc-roku-watchespn-betis-television-text-trademark.png" group-title="Futbol",ESPN 1 LAT HD
+http://45.70.201.81:8000/play/a001/index.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/TNT_Sports_2021_logo.svg" group-title="Futbol",TNT Sports HD
+http://181.13.252.102:8000/play/a0bc/index.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/TyC_Sports_logo.svg" group-title="Futbol",TyC Sports HD Compatible para la argentina
+https://live-04-11-tyc24.vodgc.net/tyc24/index_tyc24_1080.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/FOX_Sports_logo.svg" group-title="Futbol",Fox Sports 1 HD
+http://181.209.37.74:8001/play/a085/index.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/Fox_sports_2_usa.jpg" group-title="Futbol",Fox Sports 2 HD
+http://181.209.37.74:8001/play/a09b/index.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Fox_Sports_3_Argentina_2023.svg" group-title="Futbol",Fox Sports 3 HD
+http://181.209.37.74:8001/play/a06y/index.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="Futbol",DSports 1 HD
+http://201.230.121.85:8000/play/a0yv/index.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/DIRECTV_Sports_2_Latin_America_%282018%29.svg" group-title="Futbol",DSports 2 HD NO FUNCIONA
+http://38.224.73.146:8000/play/a0vr/index.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="Futbol",DSports +
+http://217.26.190.76:8888/play/a0jb/index.m3u8
